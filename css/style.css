@@ -76,11 +76,17 @@ margin: 0;
 padding: 10px 5px;
 font-size: .9em;
 letter-spacing: 1px;
+text-align: center;
 }
 
 th:nth-child(1) {
 width: 350px;
 color: white;
+}
+
+td:nth-child(1) {
+text-align: left;
+padding-left: 10px;
 }
 
 tr:nth-child(odd) td {
