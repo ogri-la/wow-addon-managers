@@ -63,7 +63,11 @@ font-size: .8em;
 
 th {
 vertical-align: bottom;
-padding-bottom: 10px;
+padding: 10px 0;
+position: sticky;
+top: 0;
+background: white;
+border-bottom: 2px solid #bbb;
 }
 
 th select {
