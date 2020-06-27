@@ -113,3 +113,17 @@ background: #ccc;
 tr:hover td a {
 text-decoration: underline;
 }
+
+footer {
+font-size: .8em;
+color: #666;
+}
+
+footer ul li:nth-last-child(1) {
+margin-top: 20px;
+font-size: 1.1em;
+}
+
+footer a:visited {
+color: blue;
+}
