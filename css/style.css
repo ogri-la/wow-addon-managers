@@ -119,6 +119,21 @@ font-size: .8em;
 color: #666;
 }
 
+footer ul {
+list-style-type: none;
+margin-left: 20px;
+padding-left: 0;
+}
+
+footer ul li {
+padding-bottom: 4px;
+}
+
+footer ul li strong code {
+color: black;
+font-size: 1.2em;
+}
+
 footer ul li:nth-last-child(1) {
 margin-top: 20px;
 font-size: 1.1em;
